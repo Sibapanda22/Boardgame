@@ -31,6 +31,8 @@ jobs:
       with:
         name: my-artifact
         path: target/*.jar
+
+
         
 
     - name: Update dependency graph
